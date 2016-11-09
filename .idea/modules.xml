@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hday13_1_vitamio视频列表/hday13_1_vitamio视频列表.iml" filepath="$PROJECT_DIR$/hday13_1_vitamio视频列表/hday13_1_vitamio视频列表.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hday13_2_windowmanager的使用/hday13_2_windowmanager的使用.iml" filepath="$PROJECT_DIR$/hday13_2_windowmanager的使用/hday13_2_windowmanager的使用.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hday13_2test/hday13_2test.iml" filepath="$PROJECT_DIR$/hday13_2test/hday13_2test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hday13test.iml" filepath="$PROJECT_DIR$/hday13test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
+    </modules>
+  </component>
+</project>
